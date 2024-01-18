@@ -1,0 +1,23 @@
+{
+    "empleados": [
+        {
+            "nombre": "Juan",
+            "apellido": "López",
+            "pasatiempo": ["Cocinar", "Programar"]
+        },
+        {
+            "nombre": "Ana",
+            "apellido": "González",
+            "pasatiempo": ["Programar"],
+            "direcciones":{
+                "personal": ["Casa", "Pareja"],
+                "trabajo": ["Remoto", "Físico"]
+            }
+        },
+        {
+            "nombre": "Pedro",
+            "apellido": "Sánchez",
+            "pasatiempo": []
+        }
+    ]
+}
